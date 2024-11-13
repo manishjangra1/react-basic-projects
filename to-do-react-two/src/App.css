@@ -1,0 +1,21 @@
+input {
+    width: 100%;
+}
+
+#appName{
+    font-size: 30px;
+    font-weight: 700;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+.items-container{
+    text-align: left;
+}
+
+.md-row{
+    margin: 10px 5px;
+}
+
+.md-button{
+    min-width: 70px;
+}
